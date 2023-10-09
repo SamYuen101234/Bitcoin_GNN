@@ -1,0 +1,17 @@
+# install torch yourself
+
+numpy==1.21.2
+pandas==1.3.3
+tqdm==4.62.2
+
+# for SQL and handling the data
+duckdb==0.4.0
+fsspec==2022.10.0
+pyarrow==9.0.0
+
+# if turn on tensorboard
+tensorboard==2.10.0
+torchmetrics==0.9.3
+
+base58==2.1.1
+python-dotenv==0.20.0
